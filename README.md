@@ -1,8 +1,8 @@
-# 👋Olá
+# Olá
 
 me chamo cappellari! 
 <br> 
-## 👨‍💻beginner em 
+## beginner em 
 ```
 JS HTML & CSS
 ```
