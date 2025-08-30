@@ -24,18 +24,7 @@
 </div>
 <div>
 <a href="https://cappellari.xyz/profile.html">
-<button style="
-    background-color: #616161ff; /* Green */
-    border: none;
-    color: white;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 12px;
-    display: block; 
-    margin: 0 auto; 
-    margin-top: 20px; 
-    padding: 10px 20px; 
-    font-size: 16px; 
+<button style=" 
     cursor: pointer;">click
 </button>
 </a>
