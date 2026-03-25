@@ -14,7 +14,7 @@
 - <p>Back-end</p>
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://www.javascript.com/)
-[![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge)](https://svelte.dev/)
+<!--[![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge)](https://svelte.dev/)-->
 
 - <p>Game-dev</p>
 [![UEFN](https://img.shields.io/badge/UEFN-purple?style=for-the-badge)](https://dev.epicgames.com/community/fortnite/getting-started)
