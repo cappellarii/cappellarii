@@ -1,7 +1,8 @@
 ## Hi
 <p>Im Cappellari</p>
 
-### Languages that i use
+
+### Languages and tools that i use
 
 - <p>Front-end</p>
 
@@ -24,14 +25,21 @@
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
 - <p>Security </p> 
-[![Cisco](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/dd3bb8ba-5afd-475a-be42-396709385557/public_url)
+[![Cisco](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/dd3bb8ba-5afd-475a-be42-396709385557/public_url)
 
-- <p>Database</p>
+- <p>Databases</p>
 
 [![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+- <p>Tools</p>
+[![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)](https://prettier.io/)
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 <br>
-<p>contact:</p>
+
+### Contact
+
 <div>
 <a href="https://joaoguilhermecappellari@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
