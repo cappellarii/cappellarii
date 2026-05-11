@@ -43,7 +43,4 @@
 <a href="https://joaoguilhermecappellari@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://discord.com">
-  <img src="https://dcbadge.limes.pink/api/shield/1344556325924900874" alt="" />
-</a>
 </div>
